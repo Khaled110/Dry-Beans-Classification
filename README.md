@@ -44,7 +44,7 @@ Given a set of features extracted from the shape of the beans in images and it's
 - Exploring the dataset.
 - Getting summary statistics. 
 - Checking for null values and duplicated records.
-- Apllying Some visualizations for more insights.
+- Applying some visualizations for more insights.
 
 ## Data Import
 Importing needed libraries to get started, training and testing data.
